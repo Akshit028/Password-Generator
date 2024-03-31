@@ -60,7 +60,7 @@ function App() {
            className='outline-none bg-blue-500 text-white px-3 py-0.5 shrink-0'>{buttonText}</button>
 
         </div>
-        <div className='flex text-sm gap-x-2'>
+        <div className='flex text-[10px] sm:text-sm gap-x-2'>
           <div className='flex items-center gap-x-1'>
             <input
               type="range"
